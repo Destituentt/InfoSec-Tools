@@ -1,5 +1,5 @@
 # InfoSec-Tools
-This is a a journal of sorts to document my learning of infosec and python programing. I will be adding different tools in the order that I make in hopes of looking back one day and seeing how much I've progressed.
+This is a a journal of sorts to document my learning of infosec and python programing. I will be adding different tools in the order that I make in hopes of looking back one day and seeing how much I've progressed. I've also attached screenshots to showcase the tools in use.
 
 # Tools
 1. My first tool is a password generator made in python, ([Passgen.py](https://github.com/Destituentt/InfoSec-Tools/blob/af8120a28895c8cfa1678cd7a0b37f832096fd52/Tools/Passgen.py)) that uses the **strings** and **random** libs to generate a 12 character password.
